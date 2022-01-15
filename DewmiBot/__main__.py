@@ -88,7 +88,7 @@ Bot For help You Manage & Protect Your Groups.
 
 
 DONATE_STRING = """
-➢ Heya,glad to hear you want to donate !
+➢ Heya,glad to hear you want to donate to Athisura !
 ➢ You can support the project @supunmabot
 ➢ Supporting isnt always financial! [Youtube](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA)
 ➢ Those who cannot provide monetary support are welcome to help us develop the bot at @szteambots.
